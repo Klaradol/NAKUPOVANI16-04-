@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(253, 213, 224);
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 8px;
+    margin-right: 5px;
+}
+
+button {
+    padding: 8px 15px;
+    background-color:rgb(192, 18, 85);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+ 
+h1{
+    background-color:rgb(192, 18, 85);
+}
+
